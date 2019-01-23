@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">H264Demo</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="start_decoder">StartDecoder</string>
+    <string name="stop_decoder">StopDecoder</string>
+    <string name="start_encoder">StartEncoder</string>
+    <string name="stop_encoder">StopEncoder</string>
+</resources>
